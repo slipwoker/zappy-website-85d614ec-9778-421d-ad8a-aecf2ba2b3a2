@@ -1,0 +1,69 @@
+# יוסי המאלף האלוף — Generative Engine Optimization Map
+
+> An online webinar event focused on puppy training, targeting dog owners who want to learn how to train their new puppies. The event is educational in nature, combining professional dog training knowledge with an accessible online format. The landing page should drive registrations and communicate the value of attending the webinar.
+
+---
+
+## Pages
+
+### בית
+https://-85d614ec.zappy5.app
+הצטרפו לוובינר אילוף גורים מקוון עם יוסי המאלף האלוף ולמדו שיטות אילוף מעשיות, פתרונות להתנהגויות נפוצות ובניית תקשורת מנצחת עם הגור החדש שלכם. הירשמו עכשיו!
+
+### תודה שפניתם | יוסי המאלף האלוף
+https://-85d614ec.zappy5.app/thank-you
+יוסי המאלף האלוף - תודה שפניתם | יוסי המאלף האלוף
+
+## Legal & Policy
+
+### Privacy Policy
+https://-85d614ec.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-85d614ec.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-85d614ec.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-85d614ec.zappy5.app
+- Endpoint: https://-85d614ec.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About יוסי המאלף האלוף
+An online webinar event focused on puppy training, targeting dog owners who want to learn how to train their new puppies. The event is educational in nature, combining professional dog training knowledge with an accessible online format. The landing page should drive registrations and communicate the value of attending the webinar.
+
+## Target Audience
+- בעלי גורי כלבים
+- בעלי כלבים ראשונים
+
+## Industry
+Pet Training / Online Education
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-85d614ec.zappy5.app/sitemap.xml
+- Robots: https://-85d614ec.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-85d614ec.zappy5.app/llms-full.txt
